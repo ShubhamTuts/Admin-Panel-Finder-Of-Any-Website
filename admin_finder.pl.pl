@@ -14,7 +14,7 @@ print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\t> [!]Admin Control Panel Finder v1.0                 >\n";
 print "\t>                [!]Developed By Shubham Kumar Sinha                 >\n";
 print "\t>       ======================================       >\n";
-print "\t> [!]Please Visite ==> https://www.youtube.com/channel/UCo20vtvL8D3nRjuZq0S5yVg          >\n";
+print "\t> [!]Please Visit ==> https://www.youtube.com/channel/UCo20vtvL8D3nRjuZq0S5yVg          >\n";
 print "\t> [!]Contact Us ==> http://shubhamsinha.godaddysites.com/           >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
@@ -25,7 +25,7 @@ chomp $site;
 
 print "\n";
 print " Enter site source code\n\n 1 = php\n 2 = asp\n 3 = aspx\n 4 = cfm\n 5 = js\n 6 = cgi\n 7 = brf\n\n-> ";
-print "If you dont't know try to find out throgh Nmap scanning tool \n";
+print "If you don't know try to find out through Nmap scanning tool \n";
 $code=<STDIN>;
 chomp($code);
 
